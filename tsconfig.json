@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "outDir": "public/scripts",
+    "target": "es2015",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "allowJs": true
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
